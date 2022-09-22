@@ -1,0 +1,37 @@
+{
+    "list_product": [
+        {
+            "id": 1,
+            "name": "Luxe Signature Ring",
+            "image": "https://cdn.tuk.dev/assets/templates/e-commerce-kit/bestSeller2.png",
+            "type": "RF293",
+            "height": "10 inches",
+            "color": "black",
+            "composition": "100% calf leather",
+            "price": 9000,
+            "selected": false
+        },
+        {
+            "id": 2,
+            "name": "Luxe Signature Shoes",
+            "image": "https://cdn.tuk.dev/assets/templates/e-commerce-kit/bestSeller1.png",
+            "type": "RF293",
+            "height": "10 inches",
+            "color": "black",
+            "composition": "100% calf leather",
+            "price": 7000,
+            "selected": false
+        },
+        {
+            "id": 3,
+            "name": "North wolf bag",
+            "image": "https://cdn.tuk.dev/assets/templates/e-commerce-kit/bestSeller3.png",
+            "type": "RF293",
+            "height": "10 inches",
+            "color": "black",
+            "composition": "100% calf leather",
+            "price": 9000,
+            "selected": false
+        }
+    ]
+}
